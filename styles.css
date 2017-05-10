@@ -1,0 +1,43 @@
+h1 {
+  font-size:30px;
+  font-family: sans-serif, Georgia;
+  color: white;
+  background-color: #303030;
+  padding: 15px 20px 15px 20px;
+  margin: 1%;
+}
+
+h2 {
+font-size: 18px;
+font-family: sans-serif, Georgia;
+color: white;
+background-color: grey;
+padding: 1% 30%;
+}
+
+h3 {
+  font-weight: normal;
+  background-color: #a8ebc8;
+  padding: 10px;
+
+}
+span {
+  font-family: sans-serif, Georgia;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+div {
+  font-size: 15px;
+  text-decoration: underline;
+  padding:inherit;
+  background-color: #FFC300;
+  padding: 4px 2px;
+  }
+
+footer {
+  font-size: 10px;
+  color: white;
+  background-color: black;
+
+}
