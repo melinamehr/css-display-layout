@@ -27,12 +27,30 @@ span {
   text-decoration: underline;
 }
 
-div {
+img {
+  width: 80%;
+  height: 100%;
+}
+
+.images {
+  padding: 0 10%;
+}
+
+.photo {
+  position:relative;
+  display:inline-block;
+  width:33%;
+  padding: 5px 0;
+}
+
+.text {
   font-size: 15px;
+  text-align: center;
+  color: blue;
+  width: 100%;
   text-decoration: underline;
-  padding:inherit;
+  display: block;
   background-color: #FFC300;
-  padding: 4px 2px;
   }
 
 footer {
